@@ -1,0 +1,13 @@
+.reg{
+    background-color: dodgerblue;
+    border-radius: 5px;
+    padding: 4px;
+    color: white;
+}
+
+.container{
+    background-color:rgba(119, 136, 153, 0.562);
+    border: 5px;
+    border-radius: 15px;
+    padding: 50px;
+}

@@ -1,0 +1,29 @@
+.images{
+    width: 150px;
+}
+.nav{
+    width: 100%;
+    background-color: slategray;
+}
+
+.navbar a{
+    color: white;
+    /* margin-left: 30%; */
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.navbar :hover{
+    color: yellow;
+}
+.btn-group{
+    margin-left: 150%;
+}
+.dropdown-menu{
+  background-color: slategray;
+}
+
+/* @media screen and (max-width: 768px) {
+    .dropdown-menu {
+        gap: 10px;
+       background-color: black;
+    }
+} */

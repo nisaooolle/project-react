@@ -1,0 +1,32 @@
+.footer{
+    display: flex;
+    background-color:slategray ;
+    /* gap: 140px; */
+    align-items: center;
+}
+.fot{
+    width: 200px;
+    margin-left: 40px;
+    padding-left: 30px;
+}
+.fott{
+    width: 70px;
+    margin-left: 40px;
+}
+h4,h5,p{
+    color: white;
+    padding-left: 70px;
+}
+
+h5{
+    margin-left: 3px;
+}
+.rigt {
+    color: black;
+    background-color: yellow;
+    padding-left: 60px;
+}
+
+.phg{
+    padding-left: 60px;
+}

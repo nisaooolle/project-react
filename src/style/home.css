@@ -1,0 +1,48 @@
+.cr{
+    justify-content: center;
+    display: flex;
+    gap: 80px;
+    /* margin-top: 20px */
+}
+
+.isi{
+    background-image: url("https://t4.ftcdn.net/jpg/03/67/79/39/360_F_367793911_yYuByLUhWcfbHvMxvvwE4LR06EpLaNZP.jpg");
+    background-size: cover;
+}
+
+.carousel-inner{
+    padding: 50px;
+}
+h2{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2 :hover{
+    color: yellow;
+}
+
+.btn-group{
+    margin-left: 10%;
+}
+.dropdown-menu{
+  background-color: slategray;
+}
+.baru{
+    background-color: slategray;
+    border: 5px;
+    border-radius: 35px;
+    color: white;
+    padding: 5px;
+}
+.baru:hover{
+    color: yellow;
+}
+/* @media screen and (max-width: 768px) {
+    .cr {
+     gap: 20px;
+    } 
+    .card {
+     height: 50px;
+     border: 1px solid black;
+    }
+ }  */
